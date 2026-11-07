@@ -1,0 +1,20 @@
+﻿# Credenciais e variáveis de ambiente
+.env
+.env.*
+!.env.example
+
+# Arquivos temporários e logs
+*.log
+*.tmp
+*.bak
+
+# Backups e exportações de banco
+*.sql.gz
+*.dump
+*.bak
+
+# Configurações locais
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
